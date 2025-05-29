@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lab_%E2%84%9619/static/css/main.7b79ff6f.css",
+    "main.js": "/Lab_%E2%84%9619/static/js/main.7e584f78.js",
+    "index.html": "/Lab_%E2%84%9619/index.html",
+    "main.7b79ff6f.css.map": "/Lab_%E2%84%9619/static/css/main.7b79ff6f.css.map",
+    "main.7e584f78.js.map": "/Lab_%E2%84%9619/static/js/main.7e584f78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b79ff6f.css",
+    "static/js/main.7e584f78.js"
+  ]
+}
