@@ -20,23 +20,3 @@ React
 React Router
 
 Fetch API
-
-CSS (темна тема)
-Структура проєкту
-css
-Копировать код
-src/
-├── api/
-│   └── weatherApi.js
-├── components/
-│   ├── Header.jsx
-│   └── Footer.jsx
-├── pages/
-│   ├── AboutMe.jsx
-│   ├── MyCity.jsx
-│   └── MyFuture.jsx
-├── App.js
-├── index.js
-├── App.css
-Автор
-TekutoKiri(Соловйов Денис)
